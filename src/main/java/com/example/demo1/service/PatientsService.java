@@ -41,7 +41,10 @@ public class PatientsService {
 	@Autowired
 	private KafkaTemplate<String, Patients> kafkaTemplate;
 	
-//	public Patients savePatient(Patients p)
+	
+	
+	
+//	public Patients savePatientBasicDetails(Patients p)
 //	{
 //		
 //		Patients pt=p; 
